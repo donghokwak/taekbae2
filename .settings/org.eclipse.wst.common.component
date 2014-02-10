@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project-modules id="moduleCoreId" project-version="2.0">
+<project-modules id="moduleCoreId" project-version="1.5.0">
 	<wb-module deploy-name="taekbae2">
 		<property name="context-root" value="taekbae2"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/장원재/.gradle/caches/artifacts-23/filestore/aopalliance/aopalliance/1.0/jar/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
